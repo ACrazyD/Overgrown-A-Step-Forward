@@ -15,7 +15,10 @@ patchouli_books/
 saves/
 shaderpacks/
 structurize/
+resourcepacks/
+schematics/
 
+.curseclient
 .vscode/
 *.txt
 servers.dat
