@@ -1,0 +1,24 @@
+!/Overgrown-A-Step-Forward/kubejs/
+!/Overgrown-A-Step-Forward/config/
+!/Overgrown-A-Step-Forward/notes-and-templates/
+!/Overgrown-A-Step-Forward/.vscode/
+!/Overgrown-A-Step-Forward/servers.dat
+
+# Ignore  directory
+crash-reports/
+downloads/
+journeymap/
+local/
+logs/
+mods/
+patchouli_books/
+saves/
+shaderpacks/
+structurize/
+
+.vscode/
+*.txt
+servers.dat
+patchouli_data.json
+usercache.json
+usernamecache.json
