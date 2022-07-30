@@ -1,0 +1,65 @@
+#Should coin drops from entities be enabled? Default=true
+enableCoinDrops = true
+#Should copper coins be disabled? Default = false
+disableCopperCoin = false
+#Should iron coins be disabled? Default = false
+disableIronCoin = false
+#Should gold coins be disabled? Default = false
+disableGoldCoin = false
+#Should diamond coins be disabled? Default = false
+disableDiamondCoin = false
+#The minimum amount of health required for more coins to drop. If the health goes over this number then it will drop this value/2 (closest to the lowest 10) coins. Default=20
+minimumHealthDroprateMultiplier = 20
+#Should the entity health affect the rarity of coins? Default=false
+enableHealthMultipliers = false
+#How many coins are required to upgrade to the next tier? To disable coin conversion, set this as 0. Default=10
+coinConversionRate = 10
+#Set to true if you only want hostile mobs to drop coins. Default=false
+onlyHostileDrops = false
+#Drop rate for copper coin. Default=80
+copperCoinDroprate = 80
+#If the health is between 0 and this number, drop rates will not change. Default=20
+copperCoinHealthBoost = 20
+#Drop rate for iron coin. Default=10
+ironCoinDroprate = 10
+#If the health is between copperCoinHealthBoost and this number, an iron coin is more likely to drop. Default=40
+ironCoinHealthBoost = 40
+#Drop rate for gold coin. Default=4
+goldCoinDroprate = 4
+#If the health is between ironCoinHealthBoost and this number, a gold coin is more likely to drop. Default=60
+goldCoinHealthMultiplier = 60
+#Drop rate for diamond coin. Default=1
+diamondCoinDroprate = 1
+#If the health is greater than this number, a diamond coin is more likely to drop. Default=80
+diamondCoinHealthBoost = 80
+#Maximum bonus affected by the looting enchantment. Default=1
+lootingBonusMax = 1
+#Should the mod drop a random amount of extra coins? Default = false
+shouldDropRandomExtra = false
+#If shouldDropRandomExtra=true, what is the limit for amount of coins dropped? Default = 3
+dropExtraLimit = 3
+#Should the mod add coins to chest loot? Default = true
+generateChestLoot = true
+#What is the maximum number of coins in chest loot? Default = 3
+chestLootLimit = 3
+#A list of entities that SHOULD drop loot. Used for entities that do not extend entityLiving. This can also bypass 'onlyHostileDrops'.
+#Example - includedEntities = ["minecraft:enderdragon", "modid:entityid"]
+#Default - includedEntities = ["minecraft:enderdragon", "minecraft:slime", "minecraft:shulker"]
+includedEntities = ["minecraft:enderdragon", "minecraft:slime", "minecraft:shulker"]
+#A list of entities that SHOULD NOT drop loot. This will bypass 'includedEntities'
+#Example - blacklistedEntities = ["minecraft:zombie", "modid:entityid"]
+blacklistedEntities = []
+#Do you want to limit the dimensions that coins can be dropped in? Default = false
+enableDimensionWhitelist = false
+#A list of dimensions here that you'd like coins to drop in (if whitelisting is enabled).
+#Example - whitelistedDimensions = ["minecraft:the_nether", "modid:dimensionid"]
+whitelistedDimensions = []
+#Do you want players to drop their coins on death? Default = true
+dropCoinsOnPlayerDeath = true
+#Where should coin GUI appear? It can be moved ingame.
+coinGuiX = 0
+#Where should coin GUI appear? It can be moved ingame.
+coinGuiY = 240
+#The maximum size for the wallet (the gui that appears alongisde other GUIs). Strongly recommended that you keep this below 1000. Default = 999
+maxWalletSlotSize = 999
+
