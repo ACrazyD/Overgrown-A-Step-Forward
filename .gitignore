@@ -18,7 +18,7 @@ structurize/
 resourcepacks/
 schematics/
 fancymenu_data
-
+/
 
 .gitignore
 .curseclient
@@ -28,5 +28,4 @@ servers.dat
 patchouli_data.json
 usercache.json
 usernamecache.json
-minecraftinstance.json
 minecraftinstance.json
