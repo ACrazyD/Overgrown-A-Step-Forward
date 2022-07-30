@@ -1,15 +1,20 @@
 Tinkers Survival - Survival storage
+
 Tinkers - Assists Survival Stage - Full unlocks with Vanilla Minus Tinkers Smeltery
     - Custom Fluids added with realistic heats for metal molten forms - Surves to lock some metals behind teirs
     - Melter/Smeltery will be gated - starting with create - then later on still be to be worked out
+
 Create - Core mod for Most progression both magic and tech - using custom items for intermod work and using create for assemly
     - This will be how users use tinkers molten Fluids for a while tell they unlock the smeltry/melter
     - Will be used for AE/RS crafting recipes for storage cells
     - Will be used to start out the gating of Storage mods - later stages will require either magic or tech to get farther.
+
 Magic Progression
     - Botiana -> Occultism -> Bloodmagic
+
 Tech Progression
     - Immersive -> Industrial Forgoing -> Mek
+
 Storage Progression
     Default Teirs (Unchanged) - Iron - Copper (Same as Iron In Size) - Gold - Emerald - Diamond - Obsidian (BlastProof) - Crystal (removed) -
     Changed Teirs (Changed) - Aluminum - Bronze - Electrum - Uranium - ManaDiamond - (Smithing Upgrade) netherite?
