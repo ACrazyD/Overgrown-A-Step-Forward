@@ -18,8 +18,8 @@ structurize/
 resourcepacks/
 schematics/
 
-.curseclient
 .gitignore
+.curseclient
 .vscode/
 *.txt
 servers.dat
