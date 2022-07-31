@@ -17,6 +17,8 @@ shaderpacks/
 structurize/
 resourcepacks/
 schematics/
+fancymenu_data
+/
 
 .gitignore
 .curseclient
