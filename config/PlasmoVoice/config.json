@@ -9,7 +9,9 @@
       "priorityDistance": 48
     }
   },
-  "playerVolumes": {},
+  "playerVolumes": {
+    "e7571960-a0c0-4e1e-80c0-6bff047db401": 1.05
+  },
   "whitelist": false,
   "voiceVolume": 1.0,
   "priorityVolume": 1.0,

@@ -20,10 +20,9 @@ schematics/
 
 .gitignore
 .curseclient
-.vscode/
 *.txt
 servers.dat
+minecraftinstance.json
 patchouli_data.json
 usercache.json
 usernamecache.json
-minecraftinstance.json
