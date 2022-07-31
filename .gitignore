@@ -1,10 +1,7 @@
-!/Overgrown-A-Step-Forward/kubejs/
-/Overgrown-A-Step-Forward/config/
-!/Overgrown-A-Step-Forward/notes-and-templates/
-!/Overgrown-A-Step-Forward/.vscode/
-!/Overgrown-A-Step-Forward/servers.dat
+.gitignore
 
 # Ignore  directory
+config/
 crash-reports/
 downloads/
 journeymap/
@@ -17,10 +14,9 @@ shaderpacks/
 structurize/
 resourcepacks/
 schematics/
-fancymenu_data
-/
 
-.gitignore
+
+
 .curseclient
 *.txt
 servers.dat
