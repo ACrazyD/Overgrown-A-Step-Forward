@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = OGLoungecraft.modded.fun:25565
+  is_server = false
+  world = C:/Users/Merli/curseforge/minecraft/Instances/Overgrown - A Step Forward (1)/saves/New World (1)
 }
 
