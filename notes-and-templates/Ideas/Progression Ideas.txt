@@ -17,6 +17,6 @@ Tech Progression
 
 Storage Progression - 
     All upgrades will be be done with first - Create Sequenced Crafting - then later either Bloodmagic/Botiana OR Some sort of Tech based upgrades
-    Default Teirs (Unchanged) - Iron - Copper (Same as Iron In Size) - Gold - Emerald - Diamond - Obsidian (BlastProof) - Crystal (removed)
-    Changed Teirs (Changed) - Aluminum - Bronze - Electrum - Uranium - ManaDiamond - (Smithing Upgrade) netherite?
+    Default Teirs (Unchanged) - Iron - Copper (Same as Iron In Size) - Gold - Diamond - Obsidian (BlastProof) - Crystal (removed)
+    Changed Teirs (Changed) - Aluminum - Bronze - Electrum - ManaDiamond - (Smithing Upgrade) netherite?
 	add MC:barrel -> SS:barrel recipe
